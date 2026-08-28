@@ -1,0 +1,8 @@
+{
+"order_id":1,
+"customer": {
+"name": "Ali Khan",
+"addresses": ["123 Main Street", "456 Street Ave"]
+},
+"amount":49.99
+}

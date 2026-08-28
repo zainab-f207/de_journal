@@ -1,0 +1,4 @@
+order_id,customer_name,amount,classification
+1,Ali Khan,49.99,Medium order value
+2,Sara Ahmed,120.5,High order value
+3,Zainab Fayyaz,15.0,Low order value

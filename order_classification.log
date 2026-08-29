@@ -1,0 +1,12 @@
+2026-08-30 02:12:49,324 - INFO - Starting order classification process.
+2026-08-30 02:12:49,326 - INFO - Customer: Ali Khan, Amount: 49.99 -> Medium order value
+2026-08-30 02:12:49,326 - INFO - Customer: Sara Ahmed, Amount: 120.5 -> High order value
+2026-08-30 02:12:49,326 - INFO - Customer: Zainab Fayyaz, Amount: 15.0 -> Low order value
+2026-08-30 02:12:49,326 - ERROR - Skipping invalid amount value for order_id 4: not_a_number
+2026-08-30 02:12:49,327 - INFO - Order classification process completed. Total rows processed: 3, Errors encountered: 1
+2026-08-30 02:13:51,417 - INFO - Starting order classification process.
+2026-08-30 02:13:51,418 - INFO - Customer: Ali Khan, Amount: 49.99 -> Medium order value
+2026-08-30 02:13:51,419 - INFO - Customer: Sara Ahmed, Amount: 120.5 -> High order value
+2026-08-30 02:13:51,419 - INFO - Customer: Zainab Fayyaz, Amount: 15.0 -> Low order value
+2026-08-30 02:13:51,419 - WARNING - Skipping invalid amount value for order_id 4: not_a_number
+2026-08-30 02:13:51,420 - INFO - Order classification process completed. Total rows processed: 3, Errors encountered: 1

@@ -1,0 +1,17 @@
+2026-09-03 19:56:15,089 - INFO - Extracting data from sample_data.csv
+2026-09-03 19:56:48,482 - INFO - Extracting data from samples_data.csv
+2026-09-03 19:57:26,106 - INFO - Extracting data from sample_orders.csv
+2026-09-03 19:57:40,207 - INFO - Extracting data from sample_orders.csv
+2026-09-03 19:58:24,138 - INFO - Extracting data from sample_orders.csv
+2026-09-03 20:03:53,465 - INFO - Extracting data from sample_orders.csv
+2026-09-03 20:11:14,466 - INFO - Extracting data from sample_orders.csv
+2026-09-03 20:11:14,471 - INFO - Loaded 4 rows into raw_data table
+2026-09-03 20:12:41,488 - INFO - Extracting data from sample_orders.csv
+2026-09-03 20:12:41,496 - INFO - Loaded 4 rows into raw_data table
+2026-09-03 20:14:08,793 - INFO - Extracting data from sample_orders.csv
+2026-09-03 20:14:08,798 - INFO - Loaded 4 rows into raw_data table
+2026-09-03 20:14:31,047 - INFO - Extracting data from sample_orders.csv
+2026-09-03 20:14:31,052 - INFO - Loaded 4 rows into raw_data table
+2026-09-03 20:15:56,237 - INFO - Extracting data from sample_orders.csv
+2026-09-03 20:15:56,244 - INFO - Loaded 4 rows into raw_data table
+2026-09-03 20:15:56,261 - INFO - Data transformation completed successfully

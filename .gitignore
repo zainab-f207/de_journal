@@ -1,1 +1,6 @@
 venv/
+airflow_project/logs/
+airflow_project/.env
+__pycache__/
+*.pyc
+orders.db

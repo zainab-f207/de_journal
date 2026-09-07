@@ -1,0 +1,14 @@
+version: 2
+
+models:
+  - name: transformed_orders_dbt
+    columns:
+      - name: order_id
+        tests:
+          - unique
+          - not_null
+      - name: classification
+        tests:
+        - accepted_values:
+           arguments:
+             values: ['High order value', 'Medium order value', 'Low order value']
